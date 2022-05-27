@@ -3,7 +3,6 @@ module github.com/line/ostracon
 go 1.15
 
 require (
-	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/BurntSushi/toml v1.0.0
 	github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d
 	github.com/Workiva/go-datastructures v1.0.52
@@ -34,14 +33,14 @@ require (
 	github.com/sasha-s/go-deadlock v0.2.1-0.20190427202633-1595213edefa
 	github.com/snikch/goodman v0.0.0-20171125024755-10e37e294daa
 	github.com/spf13/cobra v1.3.0
-	github.com/spf13/viper v1.10.1
+	github.com/spf13/viper v1.12.0
 	github.com/stretchr/objx v0.2.0 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/tendermint/go-amino v0.16.0
 	github.com/yahoo/coname v0.0.0-20170609175141-84592ddf8673 // indirect
-	golang.org/x/crypto v0.0.0-20210915214749-c084706c2272
-	golang.org/x/net v0.0.0-20211208012354-db4efeb81f4b
+	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
+	golang.org/x/net v0.0.0-20220520000938-2e3eb7b945c2
 	gonum.org/v1/gonum v0.9.3
-	google.golang.org/grpc v1.44.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	google.golang.org/grpc v1.46.2
+	gopkg.in/yaml.v3 v3.0.0
 )
