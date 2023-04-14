@@ -6,7 +6,7 @@ require (
 	github.com/BurntSushi/toml v1.2.1
 	github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d
 	github.com/Workiva/go-datastructures v1.0.53
-	github.com/adlio/schema v1.3.3
+	github.com/adlio/schema v1.3.4
 	github.com/btcsuite/btcd v0.22.1
 	github.com/btcsuite/btcutil v1.0.3-0.20201208143702-a53e38424cce
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
@@ -86,7 +86,7 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
-	github.com/opencontainers/runc v1.1.3 // indirect
+	github.com/opencontainers/runc v1.1.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.6 // indirect
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
