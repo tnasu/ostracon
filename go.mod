@@ -17,7 +17,7 @@ require (
 	github.com/go-logfmt/logfmt v0.6.0
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang/protobuf v1.5.3
+	github.com/golang/protobuf v1.5.4
 	github.com/golangci/golangci-lint v1.53.3
 	github.com/google/orderedcode v0.0.1
 	github.com/gorilla/websocket v1.5.0
@@ -66,7 +66,7 @@ require github.com/vektra/mockery/v2 v2.32.0
 require (
 	github.com/informalsystems/tm-load-test v1.3.0
 	gonum.org/v1/gonum v0.13.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
