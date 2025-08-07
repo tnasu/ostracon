@@ -1,6 +1,6 @@
 module github.com/Finschia/ostracon
 
-go 1.20
+go 1.22
 
 require (
 	github.com/BurntSushi/toml v1.3.2
@@ -66,7 +66,7 @@ require github.com/vektra/mockery/v2 v2.32.0
 require (
 	github.com/informalsystems/tm-load-test v1.3.0
 	gonum.org/v1/gonum v0.13.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.36.7
 )
 
 require (
