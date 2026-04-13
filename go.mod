@@ -46,7 +46,7 @@ require (
 	github.com/oasisprotocol/curve25519-voi v0.0.0-20230110094441-db37f07504ce
 	github.com/rs/zerolog v1.29.1
 	github.com/tendermint/go-amino v0.16.0
-	github.com/tendermint/tendermint v0.34.24
+	github.com/tendermint/tendermint v0.35.9
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -167,7 +167,6 @@ require (
 	github.com/gostaticanalysis/comment v1.4.2 // indirect
 	github.com/gostaticanalysis/forcetypeassert v0.1.0 // indirect
 	github.com/gostaticanalysis/nilerr v0.1.1 // indirect
-	github.com/gotestyourself/gotestyourself v2.2.0+incompatible // indirect
 	github.com/gtank/ristretto255 v0.1.2 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
@@ -294,7 +293,6 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gotest.tools v2.2.0+incompatible // indirect
 	honnef.co/go/tools v0.4.3 // indirect
 	mvdan.cc/gofumpt v0.5.0 // indirect
 	mvdan.cc/interfacer v0.0.0-20180901003855-c20040233aed // indirect
