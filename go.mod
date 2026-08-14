@@ -1,6 +1,6 @@
 module github.com/Finschia/ostracon
 
-go 1.20
+go 1.23
 
 require (
 	github.com/BurntSushi/toml v1.3.2
@@ -66,7 +66,7 @@ require github.com/vektra/mockery/v2 v2.32.0
 require (
 	github.com/informalsystems/tm-load-test v1.3.0
 	gonum.org/v1/gonum v0.13.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.36.12
 )
 
 require (
@@ -159,7 +159,7 @@ require (
 	github.com/golangci/revgrep v0.0.0-20220804021717-745bb2f7c2e6 // indirect
 	github.com/golangci/unconvert v0.0.0-20180507085042-28b1c447d1f4 // indirect
 	github.com/google/btree v1.0.0 // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/go-containerregistry v0.15.2 // indirect
 	github.com/google/pprof v0.0.0-20230705174524-200ffdc848b8 // indirect
 	github.com/gordonklaus/ineffassign v0.0.0-20230610083614-0e73809eb601 // indirect
